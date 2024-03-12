@@ -15,6 +15,6 @@ describe("This assignment", () => {
     chai.assert.isFile(
       "./myfile.md",
       "No file named 'myfile.md' found. Create one in the root of the assignment's directory"
-    );
+    );NavigationPreloadManager
   });
 });
